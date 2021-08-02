@@ -1,0 +1,18 @@
+name: DockStreamCommunity
+channels:
+  - conda-forge
+  - omnia
+  - plotly
+  - pytorch
+  - openeye
+  - rdkit
+dependencies:
+  - jupyter>=1.0.0
+  - numpy>=1.18.4
+  - matplotlib
+  - seaborn>=0.11.0
+  - pandas>=1.0.3
+  - pip
+  - scikit-learn
+  - python>=3.7
+
