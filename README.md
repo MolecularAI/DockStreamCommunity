@@ -20,10 +20,10 @@ This repository is meant to store `Jupyter Notebook` tutorials and documentation
 
 Note, that the `CCDC` package, the `OpenEye` toolkit and `Schrodinger`'s tools require you to obtain the respective software from those vendors.
 
-## Using DockStream with REINVENT
-DockStream provides a flexible implemenation of molecular docking as a scoring function component in REINVENT. The generative agent is able to gradually
-generate compounds that satisfy the DockStream component, i.e, achieve favourable docking scores. 
-A [tutorial notebook](https://github.com/MolecularAI/ReinventCommunity) is provided.
+## Using DockStream in REINVENT
+DockStream provides a flexible implementation of molecular docking as a scoring function component in REINVENT. The generative 
+agent is able to gradually generate compounds that satisfy the DockStream component, i.e, achieve favourable docking scores. 
+A [tutorial notebook](https://github.com/MolecularAI/ReinventCommunity/blob/master/notebooks/Reinforcement_Learning_Demo_DockStream.ipynb) is provided.
 
 ## Requirements
 A Conda environment is provided: `DockStreamCommunity` via `environment.yml` to execute the `Jupyter Notebook` tutorials. 
